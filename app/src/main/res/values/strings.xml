@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android Path</string>
+    <string name="description">Kitab is an art and craft company borne out of the previous identity, de Kitab, established in 2010. Kitab is centralized in Surabaya, Indonesia, a well-known country rich in its heritage.</string>
+    <string name="kitab">Kitab</string>
+    <string name="address_value">JL. Mayjend Yono Soewono Kav. No 3</string>
+    <string name="address">Address</string>
+    <string name="phone_value">+6281 3574 55300</string>
+    <string name="phone">Phone</string>
+</resources>
